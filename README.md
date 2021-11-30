@@ -16,7 +16,7 @@ down data as props.
 We'll be creating a personal blog site, similar to
 [Dan Abramov's Overreacted](https://overreacted.io/):
 
-![demo](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-component-props-mini-project/demo.png)
+[demo](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-component-props-mini-project/demo.png)
 
 There is some starter code available in `src/components/App.js`. There is also
 some data in `data/blog.js` that is being imported into `App` so you can pass
